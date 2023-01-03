@@ -1,2 +1,2 @@
 # ex_Devs
-Developing exercises
+Developing and logical exercises using Javascript.

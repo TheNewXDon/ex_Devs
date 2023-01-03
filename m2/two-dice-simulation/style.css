@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.table {
+    width: 60px;
+    display: inline-block;
+    height: 2000px;
+    border: 1px solid black;
+}
